@@ -15,12 +15,11 @@ This Homelab Attack Detection lab project enabled me to establish an environment
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM), like Splunk system, for log analysis and incident response building.
+- Security Information and Event Management (SIEM), like Splunk, for log analysis and incident response building.
 - Reconnaissance tools like NMAP to find open ports and vulnerabilities to exploit and experiment on.
 - Telemetry generation tools like Sysmon to create network traffic that is similar to real-world scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 <img width="1920" height="966" alt="Kali-NMAP" src="https://github.com/user-attachments/assets/d28172aa-7da2-432b-bc24-23bfb8a1c18d" />
 Kali Linux: Ran NMAP to find vulnerabilities within the defender system.
 
